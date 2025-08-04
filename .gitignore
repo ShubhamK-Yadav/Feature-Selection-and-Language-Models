@@ -1,0 +1,15 @@
+# Ignore Feature Selection output files
+Feature Selection/*.occ
+Feature Selection/*.ctm
+Feature Selection/*.stm
+Feature Selection/*.index
+Feature Selection/plots/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore LM subdirectories
+LM/dev/
+LM/eval/
+LM/plots/
+LM/speech_env/
